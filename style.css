@@ -1,4 +1,4 @@
-#beginning {
+body {
 text-align: center; 
 }
 body {background-color: red;
@@ -6,3 +6,5 @@ body {background-color: red;
 #beginning {border-style: solid; 
 border-color: aqua;
 }
+
+img{width:200px; height:200px}
